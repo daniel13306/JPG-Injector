@@ -9,7 +9,7 @@ WHAT DOES IT DO
 
    - Open any file like: .exe .rar .docx .png, and Inject the Bytes into a JPG file to hide it.
 
-   - NOTE: JPG Files and at Hex: 'FF D9' so Injecting a JPG into a JPG may result in problems.
+   - NOTE: JPG Files end at Hex: 'FF D9' so Injecting a JPG into a JPG may result in problems.
 
      Any file can be Converted and injected.
 
