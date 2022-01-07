@@ -1,4 +1,4 @@
-# JPG Injector [Inject any binary file into .jpg]
+# JPG Injector [Inject any binary file into .JPG]
 
 Written by DeadEagle
 
