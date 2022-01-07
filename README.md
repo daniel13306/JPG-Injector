@@ -7,7 +7,7 @@ WHAT DOES IT DO
  
  * Inject Files into JPG File's  [For a good view on the JPG's Code, download a Hex editor like HxD]
 
-   - Open any file like: .exe .rar .docx .png, and Inject the Bytes to a JPG file to hide it.
+   - Open any file like: .exe .rar .docx .png, and Inject the Bytes into a JPG file to hide it.
 
    - NOTE: JPG Files and at Hex: 'FF D9' so Injecting a JPG into a JPG may result in problems.
 
